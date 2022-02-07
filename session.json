@@ -1,1 +1,7 @@
-session ngab
+{
+	"clientID": "c6OrhhlwhCyfIMLbeUppdw==",
+	"serverToken": "1@fcDsWK57DEjEr59G/srgHkweju0ua18Tk14yUv4a4Nt4G07+6QV5ZLZl1U/G/dCrmm2YDyRSzs0v3w==",
+	"clientToken": "31TAOT7zV+szk/XYpfJmJZbKM+2zWDOFhEzVpyGqlE4=",
+	"encKey": "hvHH7PiUl4ZYpnSNrpwF23KGCg3AIgUDjqi+1FYUepM=",
+	"macKey": "92GjBagF5A70fpCTQ5uEXvwgCngp2Ek31/2HUTLTeSg="
+}
